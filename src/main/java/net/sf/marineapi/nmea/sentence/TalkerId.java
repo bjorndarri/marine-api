@@ -170,6 +170,8 @@ public enum TalkerId {
 	MX,
 	/** Navigation Light Controller */
 	NL,
+  /** Naust Marine */
+	NM,
 	/** OpenPlotter calculated */
 	OC,
 	/** OMEGA Navigation System (obsolete) */
